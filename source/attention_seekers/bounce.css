@@ -25,6 +25,7 @@
 
   90% {
     transform: translate3d(0, -4px, 0) scaleY(1.02);
+      transform: translate3d(0, -4px, 0) scaleY(1.02);
   }
 }
 
